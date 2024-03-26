@@ -1,0 +1,8 @@
+﻿  employee.cpp
+  main.cpp
+D:\2022\项目\C++-6\employee.cpp(98,43): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\2022\项目\C++-6\main.cpp(4,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\2022\项目\C++-6\main.cpp(20,55): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\2022\项目\C++-6\main.cpp(29,57): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+  C++-6.vcxproj -> D:\2022\项目\C++-6\x64\Debug\C++-6.exe
